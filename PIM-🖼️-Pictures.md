@@ -4,7 +4,7 @@
 
 
 
-<img width="800" height="1200" alt="WhatsApp Image 2026-10-17 at 3 07 38 PM" src="https://github.com/user-attachments/assets/ac8315c4-252c-47bc-b903-606ea1dc380d" />
+
 <img width="800" height="960" alt="WhatsApp Image 2026-10-17 at 3 10 22 PM" src="https://github.com/user-attachments/assets/3068faef-a539-4c7f-9178-5e640fc34d1a" />
 <img width="800" height="1200" alt="WhatsApp Image 2026-10-17 at 3 10 43 PM" src="https://github.com/user-attachments/assets/62cd129d-939d-4778-848c-519922ea28e5" />
 <img width="800" height="1200" alt="image" src="https://github.com/user-attachments/assets/d93f5969-f985-4536-9641-7526cac13000" />
