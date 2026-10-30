@@ -2,7 +2,7 @@
 
 <img width="800" height="800" alt="WhatsApp Image 2026-10-21 at 8 13 48 PM" src="https://github.com/user-attachments/assets/b81b4cdd-981f-4123-853d-b624948c5e1a" />
 <img width="800" height="948" alt="WhatsApp Image 2026-10-21 at 5 56 04 PM" src="https://github.com/user-attachments/assets/453c057f-f652-4faa-b352-1ac2e9a6f875" />
-<img width="1280" height="1169" alt="WhatsApp Image 2026-10-21 at 4 39 20 PM" src="https://github.com/user-attachments/assets/7407a386-b1f6-41b2-a68e-805f9b0212d6" />
+
 <img width="800" height="960" alt="WhatsApp Image 2026-10-18 at 10 45 42 AM" src="https://github.com/user-attachments/assets/15f416b3-aeaf-4986-af32-c49a304ebcec" />
 <img width="800" height="1200" alt="WhatsApp Image 2026-10-17 at 3 06 54 PM" src="https://github.com/user-attachments/assets/7397e312-0215-4993-83aa-090cf59e645d" />
 <img width="800" height="1200" alt="WhatsApp Image 2026-10-17 at 3 07 38 PM" src="https://github.com/user-attachments/assets/ac8315c4-252c-47bc-b903-606ea1dc380d" />
