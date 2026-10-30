@@ -3,7 +3,7 @@
 <img width="800" height="800" alt="WhatsApp Image 2026-10-21 at 8 13 48 PM" src="https://github.com/user-attachments/assets/b81b4cdd-981f-4123-853d-b624948c5e1a" />
 
 
-<img width="800" height="1200" alt="WhatsApp Image 2026-10-17 at 3 06 54 PM" src="https://github.com/user-attachments/assets/7397e312-0215-4993-83aa-090cf59e645d" />
+
 <img width="800" height="1200" alt="WhatsApp Image 2026-10-17 at 3 07 38 PM" src="https://github.com/user-attachments/assets/ac8315c4-252c-47bc-b903-606ea1dc380d" />
 <img width="800" height="960" alt="WhatsApp Image 2026-10-17 at 3 10 22 PM" src="https://github.com/user-attachments/assets/3068faef-a539-4c7f-9178-5e640fc34d1a" />
 <img width="800" height="1200" alt="WhatsApp Image 2026-10-17 at 3 10 43 PM" src="https://github.com/user-attachments/assets/62cd129d-939d-4778-848c-519922ea28e5" />
