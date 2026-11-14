@@ -43,6 +43,11 @@ https://www.linkedin.com/in/harsha-vardhan-791202276/recent-activity/all/
 <img width="800" height="731" alt="image" src="https://github.com/user-attachments/assets/4e17d897-2ec8-4655-bfef-f350666396f8" />
 <img width="1280" height="1169" alt="image" src="https://github.com/user-attachments/assets/df699d96-8025-41c7-a4ec-250d8d24822d" />
 <img width="1280" height="1169" alt="image" src="https://github.com/user-attachments/assets/c9321ef6-bc81-43d0-8bff-b44ceb62012c" />
+<img width="1223" height="1286" alt="image" src="https://github.com/user-attachments/assets/0b8b547e-ee3b-41f5-93bc-e1fe464f7ade" />
+<img width="1280" height="853" alt="image" src="https://github.com/user-attachments/assets/3f30ffed-fc0f-4754-90dc-ffeadc0e6a9d" />
+<img width="1280" height="853" alt="image" src="https://github.com/user-attachments/assets/24e6b564-fb47-410b-8691-55f86e1b54d0" />
+<img width="1280" height="853" alt="image" src="https://github.com/user-attachments/assets/92761aeb-240c-4da4-af52-c2898cf2ae1e" />
+
 
 
 
